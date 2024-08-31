@@ -7,7 +7,6 @@ This is a quick start template for [Hugo theme Stack](https://github.com/CaiJimm
 It comes with a basic theme structure and configuration. GitHub action has been set up to deploy the theme to a public GitHub page automatically. Also, there's a cron job to update the theme automatically everyday.
 
 # About Myself
-
 I'm currently a student studying in NTU, master of science in blockchain technology. 
 
 I'm skilled at Vue3, Javascript(Typescript) and I've been learning solidity, next.js for my future technological career oppotunity in Web3. 
